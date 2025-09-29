@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-🌱 I am currently pursuing the Ph.D. at [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/), supervised by [Prof. Jun Ma](https://scholar.google.com/citations?user=8VepsVAAAAAJ&hl) and [Prof. Michael Yu WANG](https://scholar.google.com/citations?user=Oo7c22wAAAAJ&hl=zh-CN&oi=ao) since September 2024. Prior to this, I completed my Master's degree in Automation at [Fudan University](http://en.hitsz.edu.cn) (2021-2024), under the advisement of [Hongbin Fang](https://scholar.google.com/citations?user=PNxCzfwAAAAJ&hl=zh-CN). I also received my B.Eng. in Robotic Engineering from [Southeast University](http://english.ee.xidian.edu.cn/index.html) in 2021.
+🌱 I am currently pursuing the Ph.D. at [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/), supervised by [Prof. Jun Ma](https://scholar.google.com/citations?user=8VepsVAAAAAJ&hl) and [Prof. Michael Yu WANG](https://scholar.google.com/citations?user=Oo7c22wAAAAJ&hl=zh-CN&oi=ao) since September 2024. Prior to this, I completed my Master's degree in Automation at [Fudan University](https://www.fudan.edu.cn/en/) (2021-2024), under the advisement of [Hongbin Fang](https://scholar.google.com/citations?user=PNxCzfwAAAAJ&hl=zh-CN). I also received my B.Eng. in Robotic Engineering from [Southeast University](https://www.seu.edu.cn/) in 2021.
 
 👯  I am interested in loco-manipulation, specifically for long-horizon mobile interaction with various objects (beyond simple table-top pick-and-place tasks), to alleviate human workload.
+
 📫 For more information, please visit my [Personal Website](https://zhihaibi.github.io/).
 
 <!--
