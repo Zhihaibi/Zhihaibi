@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <table><tr><td align="center" width="52%">
   
-[![ckwu's github stats](https://github-readme-stats.vercel.app/api?username=Zhihaibi&show_icons=true&count_private=true)](https://github.com/Zhihaibi/)
+[![zhihai's github stats](https://github-readme-stats.vercel.app/api?username=Zhihaibi&show_icons=true&count_private=true)](https://github.com/Zhihaibi/)
   
 </td><td align="center" width="48%">
   
